@@ -12,3 +12,5 @@ src/static/js/jquery.js
 npm-debug.log
 *.DS_Store
 .ep_initialized
+/etherpad-lite-nb-meta/nbproject/private/
+/etherpad-lite-nb-meta/
